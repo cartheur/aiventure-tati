@@ -4,7 +4,7 @@ Machine Intelligence (MI) as analogue.
 
 ### Background
 
-A MI device built by a Russian designer (or group) in France in the 1950s.
+A MI device designed by a Russian engineer, developed and assembled by a competent group of engineers in the suburbs of Paris, France in the 1950s.
 
 ![main](/images/main.jpeg)
 
